@@ -1,6 +1,6 @@
 ---
 name: '🚀 Feature Request'
-about: RFC and ideas for new features and improvements
+about: Suggest ideas for new features or improvements
 title: ''
 labels: 'RFC'
 assignees: ''
