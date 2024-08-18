@@ -1,8 +1,8 @@
 ---
 name: '🚀 Feature Request'
-about: Suggest an idea for this project
+about: RFC and ideas for new features and improvements
 title: ''
-labels: ''
+labels: 'RFC'
 assignees: ''
 
 ---
