@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 📖 Documentation
-    url: https://symfony.com/bundles#symfony-ux-bundles
-    about: Read the bundles documentation on symfony.com
+  - name: 🛟 Support / help
+    url: https://symfony.com/support
+    about: Ask your questions about Symfony UX
