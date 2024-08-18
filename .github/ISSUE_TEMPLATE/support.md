@@ -1,6 +1,6 @@
 ---
 name: '🛟 Support / help'
-about: ''
+about: 'Questions about installation, configuration, usage'
 title: ''
 labels: 'question'
 assignees: ''
